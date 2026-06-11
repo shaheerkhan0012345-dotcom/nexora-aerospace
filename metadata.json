@@ -1,0 +1,6 @@
+{
+  "name": "Core Aerospace Spacecraft Launcher",
+  "description": "Premium aerospace landing application for high-performance spacecraft design, orbit tracking estimators, and fleet solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
